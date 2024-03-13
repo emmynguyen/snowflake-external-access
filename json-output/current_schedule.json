@@ -1,0 +1,3593 @@
+{
+    "gameWeek": [
+      {
+        "date": "2024-03-12",
+        "dayAbbrev": "TUE",
+        "games": [
+          {
+            "awayTeam": {
+              "abbrev": "DET",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/DET_dark.svg",
+              "id": 17,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
+              "placeName": {
+                "default": "Detroit"
+              },
+              "score": 3
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/det-vs-buf/2024/03/12/2023021031",
+            "gameOutcome": {
+              "lastPeriodType": "REG"
+            },
+            "gameScheduleState": "OK",
+            "gameState": "OFF",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "BUF",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/BUF_dark.svg",
+              "homeSplitSquad": false,
+              "id": 7,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+              "placeName": {
+                "default": "Buffalo"
+              },
+              "score": 7
+            },
+            "id": 2023021031,
+            "neutralSite": false,
+            "periodDescriptor": {
+              "number": 3,
+              "periodType": "REG"
+            },
+            "season": 20232024,
+            "startTimeUTC": "2024-03-12T23:00:00Z",
+            "threeMinRecap": "/video/recap-red-wings-at-sabres-3-12-24-6348788163112",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 28,
+                "market": "H",
+                "network": "MSG-B",
+                "sequenceNumber": 62
+              },
+              {
+                "countryCode": "CA",
+                "id": 287,
+                "market": "N",
+                "network": "SNE",
+                "sequenceNumber": 26
+              },
+              {
+                "countryCode": "CA",
+                "id": 288,
+                "market": "N",
+                "network": "SNO",
+                "sequenceNumber": 27
+              },
+              {
+                "countryCode": "CA",
+                "id": 290,
+                "market": "N",
+                "network": "SNP",
+                "sequenceNumber": 29
+              },
+              {
+                "countryCode": "US",
+                "id": 351,
+                "market": "A",
+                "network": "BSDET",
+                "sequenceNumber": 51
+              }
+            ],
+            "venue": {
+              "default": "KeyBank Center"
+            },
+            "venueTimezone": "America/New_York",
+            "venueUTCOffset": "-04:00",
+            "winningGoalScorer": {
+              "firstInitial": {
+                "default": "J."
+              },
+              "lastName": {
+                "default": "Skinner"
+              },
+              "playerId": 8475784
+            },
+            "winningGoalie": {
+              "firstInitial": {
+                "default": "U."
+              },
+              "lastName": {
+                "default": "Luukkonen"
+              },
+              "playerId": 8480045
+            }
+          },
+          {
+            "awayTeam": {
+              "abbrev": "NYR",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NYR_dark.svg",
+              "id": 3,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+              "placeName": {
+                "default": "Rangers"
+              },
+              "score": 1
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/nyr-vs-car/2024/03/12/2023021032",
+            "gameOutcome": {
+              "lastPeriodType": "REG"
+            },
+            "gameScheduleState": "OK",
+            "gameState": "OFF",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CAR",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg",
+              "homeSplitSquad": false,
+              "id": 12,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+              "placeName": {
+                "default": "Carolina",
+                "fr": "Caroline"
+              },
+              "score": 0
+            },
+            "id": 2023021032,
+            "neutralSite": false,
+            "periodDescriptor": {
+              "number": 3,
+              "periodType": "REG"
+            },
+            "season": 20232024,
+            "startTimeUTC": "2024-03-12T23:00:00Z",
+            "threeMinRecap": "/video/recap-rangers-at-hurricanes-3-12-24-6348786975112",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 27,
+                "market": "A",
+                "network": "MSG",
+                "sequenceNumber": 97
+              },
+              {
+                "countryCode": "US",
+                "id": 375,
+                "market": "H",
+                "network": "BSSO",
+                "sequenceNumber": 70
+              }
+            ],
+            "venue": {
+              "default": "PNC Arena"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00",
+            "winningGoalScorer": {
+              "firstInitial": {
+                "default": "A."
+              },
+              "lastName": {
+                "default": "Fox"
+              },
+              "playerId": 8479323
+            },
+            "winningGoalie": {
+              "firstInitial": {
+                "default": "I."
+              },
+              "lastName": {
+                "cs": "Šesťorkin",
+                "default": "Shesterkin",
+                "sk": "Šesťorkin"
+              },
+              "playerId": 8478048
+            }
+          },
+          {
+            "awayTeam": {
+              "abbrev": "CBJ",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CBJ_dark.svg",
+              "id": 29,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+              "placeName": {
+                "default": "Columbus"
+              },
+              "score": 0
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/cbj-vs-mtl/2024/03/12/2023021033",
+            "gameOutcome": {
+              "lastPeriodType": "REG"
+            },
+            "gameScheduleState": "OK",
+            "gameState": "OFF",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "MTL",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/MTL_dark.svg",
+              "homeSplitSquad": false,
+              "id": 8,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
+              "placeName": {
+                "default": "Montréal"
+              },
+              "score": 3
+            },
+            "id": 2023021033,
+            "neutralSite": false,
+            "periodDescriptor": {
+              "number": 3,
+              "periodType": "REG"
+            },
+            "season": 20232024,
+            "startTimeUTC": "2024-03-12T23:00:00Z",
+            "threeMinRecap": "/video/recap-blue-jackets-at-canadiens-3-12-24-6348788238112",
+            "threeMinRecapFr": "/fr/video/recap-blue-jackets-at-canadiens-3-12-24-6348790116112",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 33,
+                "market": "H",
+                "network": "RDS",
+                "sequenceNumber": 66
+              },
+              {
+                "countryCode": "CA",
+                "id": 131,
+                "market": "H",
+                "network": "TSN2",
+                "sequenceNumber": 50
+              },
+              {
+                "countryCode": "US",
+                "id": 347,
+                "market": "A",
+                "network": "BSOH",
+                "sequenceNumber": 72
+              }
+            ],
+            "venue": {
+              "default": "Centre Bell"
+            },
+            "venueTimezone": "America/Montreal",
+            "venueUTCOffset": "-04:00",
+            "winningGoalScorer": {
+              "firstInitial": {
+                "default": "B."
+              },
+              "lastName": {
+                "default": "Gallagher"
+              },
+              "playerId": 8475848
+            },
+            "winningGoalie": {
+              "firstInitial": {
+                "default": "C."
+              },
+              "lastName": {
+                "default": "Primeau"
+              },
+              "playerId": 8480051
+            }
+          },
+          {
+            "awayTeam": {
+              "abbrev": "PIT",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PIT_dark.svg",
+              "id": 5,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+              "placeName": {
+                "default": "Pittsburgh"
+              },
+              "score": 1
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/pit-vs-ott/2024/03/12/2023021034",
+            "gameOutcome": {
+              "lastPeriodType": "OT"
+            },
+            "gameScheduleState": "OK",
+            "gameState": "OFF",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "OTT",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg",
+              "homeSplitSquad": false,
+              "id": 9,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+              "placeName": {
+                "default": "Ottawa"
+              },
+              "score": 2
+            },
+            "id": 2023021034,
+            "neutralSite": false,
+            "periodDescriptor": {
+              "number": 4,
+              "periodType": "OT"
+            },
+            "season": 20232024,
+            "startTimeUTC": "2024-03-12T23:00:00Z",
+            "threeMinRecap": "/video/recap-penguins-at-senators-3-12-24-6348790019112",
+            "threeMinRecapFr": "/fr/video/recap-penguins-at-senators-3-12-24-6348790525112",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 230,
+                "market": "H",
+                "network": "RDS2",
+                "sequenceNumber": 71
+              },
+              {
+                "countryCode": "CA",
+                "id": 294,
+                "market": "H",
+                "network": "TSN5",
+                "sequenceNumber": 80
+              },
+              {
+                "countryCode": "US",
+                "id": 528,
+                "market": "A",
+                "network": "SN-PIT",
+                "sequenceNumber": 52
+              }
+            ],
+            "venue": {
+              "default": "Canadian Tire Centre",
+              "fr": "Centre Canadian Tire"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00",
+            "winningGoalScorer": {
+              "firstInitial": {
+                "default": "D."
+              },
+              "lastName": {
+                "default": "Batherson"
+              },
+              "playerId": 8480208
+            },
+            "winningGoalie": {
+              "firstInitial": {
+                "default": "J."
+              },
+              "lastName": {
+                "default": "Korpisalo"
+              },
+              "playerId": 8476914
+            }
+          },
+          {
+            "awayTeam": {
+              "abbrev": "SJS",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg",
+              "id": 28,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+              "placeName": {
+                "default": "San Jose"
+              },
+              "score": 2
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/sjs-vs-phi/2024/03/12/2023021035",
+            "gameOutcome": {
+              "lastPeriodType": "REG"
+            },
+            "gameScheduleState": "OK",
+            "gameState": "OFF",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "PHI",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+              "homeSplitSquad": false,
+              "id": 4,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+              "placeName": {
+                "default": "Philadelphia",
+                "fr": "Philadelphie"
+              },
+              "score": 3
+            },
+            "id": 2023021035,
+            "neutralSite": false,
+            "periodDescriptor": {
+              "number": 3,
+              "periodType": "REG"
+            },
+            "season": 20232024,
+            "startTimeUTC": "2024-03-12T23:00:00Z",
+            "threeMinRecap": "/video/recap-sharks-at-flyers-3-12-24-6348788835112",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 314,
+                "market": "A",
+                "network": "NBCSCA",
+                "sequenceNumber": 63
+              },
+              {
+                "countryCode": "US",
+                "id": 322,
+                "market": "H",
+                "network": "NBCSP",
+                "sequenceNumber": 59
+              }
+            ],
+            "venue": {
+              "default": "Wells Fargo Center"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00",
+            "winningGoalScorer": {
+              "firstInitial": {
+                "default": "O."
+              },
+              "lastName": {
+                "default": "Tippett"
+              },
+              "playerId": 8480015
+            },
+            "winningGoalie": {
+              "firstInitial": {
+                "default": "S."
+              },
+              "lastName": {
+                "default": "Ersson"
+              },
+              "playerId": 8481035
+            }
+          },
+          {
+            "awayTeam": {
+              "abbrev": "FLA",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg",
+              "id": 13,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+              "placeName": {
+                "default": "Florida",
+                "fr": "Floride"
+              },
+              "score": 4
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/fla-vs-dal/2024/03/12/2023021036",
+            "gameOutcome": {
+              "lastPeriodType": "REG"
+            },
+            "gameScheduleState": "OK",
+            "gameState": "OFF",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "DAL",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/DAL_dark.svg",
+              "homeSplitSquad": false,
+              "id": 25,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+              "placeName": {
+                "default": "Dallas"
+              },
+              "score": 3
+            },
+            "id": 2023021036,
+            "neutralSite": false,
+            "periodDescriptor": {
+              "number": 3,
+              "periodType": "REG"
+            },
+            "season": 20232024,
+            "startTimeUTC": "2024-03-13T00:00:00Z",
+            "threeMinRecap": "/video/recap-panthers-at-stars-3-12-24-6348790488112",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 349,
+                "market": "H",
+                "network": "BSSW",
+                "sequenceNumber": 61
+              },
+              {
+                "countryCode": "US",
+                "id": 353,
+                "market": "A",
+                "network": "BSFL",
+                "sequenceNumber": 92
+              }
+            ],
+            "venue": {
+              "default": "American Airlines Center"
+            },
+            "venueTimezone": "US/Central",
+            "venueUTCOffset": "-05:00",
+            "winningGoalScorer": {
+              "firstInitial": {
+                "default": "A."
+              },
+              "lastName": {
+                "default": "Barkov"
+              },
+              "playerId": 8477493
+            },
+            "winningGoalie": {
+              "firstInitial": {
+                "default": "S."
+              },
+              "lastName": {
+                "cs": "Bobrovskij",
+                "default": "Bobrovsky",
+                "sk": "Bobrovskij"
+              },
+              "playerId": 8475683
+            }
+          },
+          {
+            "awayTeam": {
+              "abbrev": "ARI",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/ARI_dark.svg",
+              "id": 53,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/ARI_light.svg",
+              "placeName": {
+                "default": "Arizona"
+              },
+              "score": 1
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/ari-vs-min/2024/03/12/2023021037",
+            "gameOutcome": {
+              "lastPeriodType": "REG"
+            },
+            "gameScheduleState": "OK",
+            "gameState": "OFF",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "MIN",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/MIN_dark.svg",
+              "homeSplitSquad": false,
+              "id": 30,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
+              "placeName": {
+                "default": "Minnesota"
+              },
+              "score": 4
+            },
+            "id": 2023021037,
+            "neutralSite": false,
+            "periodDescriptor": {
+              "number": 3,
+              "periodType": "REG"
+            },
+            "season": 20232024,
+            "startTimeUTC": "2024-03-13T00:00:00Z",
+            "threeMinRecap": "/video/recap-coyotes-at-wild-3-12-24-6348790572112",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 361,
+                "market": "H",
+                "network": "BSN",
+                "sequenceNumber": 77
+              },
+              {
+                "countryCode": "US",
+                "id": 396,
+                "market": "H",
+                "network": "BSWIX",
+                "sequenceNumber": 55
+              },
+              {
+                "countryCode": "US",
+                "id": 521,
+                "market": "A",
+                "network": "SCRIPPS",
+                "sequenceNumber": 87
+              }
+            ],
+            "venue": {
+              "default": "Xcel Energy Center"
+            },
+            "venueTimezone": "US/Central",
+            "venueUTCOffset": "-05:00",
+            "winningGoalScorer": {
+              "firstInitial": {
+                "default": "R."
+              },
+              "lastName": {
+                "default": "Hartman"
+              },
+              "playerId": 8477451
+            },
+            "winningGoalie": {
+              "firstInitial": {
+                "default": "M."
+              },
+              "lastName": {
+                "default": "Fleury"
+              },
+              "playerId": 8470594
+            }
+          },
+          {
+            "awayTeam": {
+              "abbrev": "ANA",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/ANA_dark.svg",
+              "id": 24,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
+              "placeName": {
+                "default": "Anaheim"
+              },
+              "score": 2
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/ana-vs-chi/2024/03/12/2023021038",
+            "gameOutcome": {
+              "lastPeriodType": "REG"
+            },
+            "gameScheduleState": "OK",
+            "gameState": "FINAL",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CHI",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg",
+              "homeSplitSquad": false,
+              "id": 16,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
+              "placeName": {
+                "default": "Chicago"
+              },
+              "score": 7
+            },
+            "id": 2023021038,
+            "neutralSite": false,
+            "periodDescriptor": {
+              "number": 3,
+              "periodType": "REG"
+            },
+            "season": 20232024,
+            "startTimeUTC": "2024-03-13T00:30:00Z",
+            "threeMinRecap": "/video/recap-ducks-at-blackhawks-3-12-24-6348791869112",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 318,
+                "market": "H",
+                "network": "NBCSCH",
+                "sequenceNumber": 54
+              },
+              {
+                "countryCode": "US",
+                "id": 341,
+                "market": "A",
+                "network": "BSSC",
+                "sequenceNumber": 84
+              },
+              {
+                "countryCode": "US",
+                "id": 365,
+                "market": "A",
+                "network": "BSSD",
+                "sequenceNumber": 81
+              }
+            ],
+            "venue": {
+              "default": "United Center"
+            },
+            "venueTimezone": "America/Chicago",
+            "venueUTCOffset": "-05:00",
+            "winningGoalScorer": {
+              "firstInitial": {
+                "default": "S."
+              },
+              "lastName": {
+                "default": "Jones"
+              },
+              "playerId": 8477495
+            },
+            "winningGoalie": {
+              "firstInitial": {
+                "default": "P."
+              },
+              "lastName": {
+                "cs": "Mrázek",
+                "default": "Mrazek",
+                "sk": "Mrázek"
+              },
+              "playerId": 8475852
+            }
+          },
+          {
+            "awayTeam": {
+              "abbrev": "COL",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/COL_dark.svg",
+              "id": 21,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+              "placeName": {
+                "default": "Colorado"
+              },
+              "score": 6
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/col-vs-cgy/2024/03/12/2023021039",
+            "gameOutcome": {
+              "lastPeriodType": "REG"
+            },
+            "gameScheduleState": "OK",
+            "gameState": "FINAL",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CGY",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CGY_dark.svg",
+              "homeSplitSquad": false,
+              "id": 20,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+              "placeName": {
+                "default": "Calgary"
+              },
+              "score": 2
+            },
+            "id": 2023021039,
+            "neutralSite": false,
+            "periodDescriptor": {
+              "number": 3,
+              "periodType": "REG"
+            },
+            "season": 20232024,
+            "startTimeUTC": "2024-03-13T01:00:00Z",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 2,
+                "market": "A",
+                "network": "ALT",
+                "sequenceNumber": 53
+              },
+              {
+                "countryCode": "CA",
+                "id": 281,
+                "market": "N",
+                "network": "TVAS",
+                "sequenceNumber": 31
+              },
+              {
+                "countryCode": "CA",
+                "id": 289,
+                "market": "H",
+                "network": "SNW",
+                "sequenceNumber": 30
+              }
+            ],
+            "venue": {
+              "default": "Scotiabank Saddledome"
+            },
+            "venueTimezone": "US/Mountain",
+            "venueUTCOffset": "-06:00",
+            "winningGoalScorer": {
+              "firstInitial": {
+                "default": "N."
+              },
+              "lastName": {
+                "default": "MacKinnon"
+              },
+              "playerId": 8477492
+            },
+            "winningGoalie": {
+              "firstInitial": {
+                "default": "J."
+              },
+              "lastName": {
+                "default": "Annunen"
+              },
+              "playerId": 8481020
+            }
+          },
+          {
+            "awayTeam": {
+              "abbrev": "VGK",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg",
+              "id": 54,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+              "placeName": {
+                "default": "Vegas"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/VGK/20232024/VGK-radio.m3u8",
+              "score": 2
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/vgk-vs-sea/2024/03/12/2023021040",
+            "gameScheduleState": "OK",
+            "gameState": "LIVE",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "SEA",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/SEA_dark.svg",
+              "homeSplitSquad": false,
+              "id": 55,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+              "placeName": {
+                "default": "Seattle"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/SEA/20232024/SEA-radio.m3u8",
+              "score": 1
+            },
+            "id": 2023021040,
+            "neutralSite": false,
+            "periodDescriptor": {
+              "number": 2,
+              "periodType": "REG"
+            },
+            "season": 20232024,
+            "startTimeUTC": "2024-03-13T02:00:00Z",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 287,
+                "market": "N",
+                "network": "SNE",
+                "sequenceNumber": 26
+              },
+              {
+                "countryCode": "CA",
+                "id": 288,
+                "market": "N",
+                "network": "SNO",
+                "sequenceNumber": 27
+              },
+              {
+                "countryCode": "CA",
+                "id": 290,
+                "market": "N",
+                "network": "SNP",
+                "sequenceNumber": 29
+              },
+              {
+                "countryCode": "US",
+                "id": 386,
+                "market": "H",
+                "network": "ROOT-NW",
+                "sequenceNumber": 65
+              },
+              {
+                "countryCode": "US",
+                "id": 521,
+                "market": "A",
+                "network": "SCRIPPS",
+                "sequenceNumber": 87
+              }
+            ],
+            "venue": {
+              "default": "Climate Pledge Arena"
+            },
+            "venueTimezone": "US/Pacific",
+            "venueUTCOffset": "-07:00"
+          }
+        ],
+        "numberOfGames": 10
+      },
+      {
+        "date": "2024-03-13",
+        "dayAbbrev": "WED",
+        "games": [
+          {
+            "awayTeam": {
+              "abbrev": "LAK",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg",
+              "id": 26,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+              "placeName": {
+                "default": "Los Angeles"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/LAK/20232024/LAK-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/lak-vs-stl/2024/03/13/2023021041",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "STL",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg",
+              "homeSplitSquad": false,
+              "id": 19,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
+              "placeName": {
+                "default": "St. Louis"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/STL/20232024/STL-radio.m3u8"
+            },
+            "id": 2023021041,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-13T23:30:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/06005EDABF663B81?brand=nhl&wt.mc_id=NHL_LEAGUE_STL_SCHED_PAGE_LINK_GM31&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_STL&utm_content=SCHED_PAGE_LINK_GM31",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 281,
+                "market": "N",
+                "network": "TVAS",
+                "sequenceNumber": 31
+              },
+              {
+                "countryCode": "US",
+                "id": 355,
+                "market": "A",
+                "network": "BSW",
+                "sequenceNumber": 57
+              },
+              {
+                "countryCode": "US",
+                "id": 385,
+                "market": "N",
+                "network": "TNT",
+                "sequenceNumber": 4
+              },
+              {
+                "countryCode": "US",
+                "id": 519,
+                "market": "N",
+                "network": "MAX",
+                "sequenceNumber": 9
+              }
+            ],
+            "venue": {
+              "default": "Enterprise Center"
+            },
+            "venueTimezone": "US/Central",
+            "venueUTCOffset": "-05:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "NSH",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NSH_dark.svg",
+              "id": 18,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+              "placeName": {
+                "default": "Nashville"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NSH/20232024/NSH-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/nsh-vs-wpg/2024/03/13/2023021042",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "WPG",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg",
+              "homeSplitSquad": false,
+              "id": 52,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+              "placeName": {
+                "default": "Winnipeg"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/WPG/20232024/WPG-radio.m3u8"
+            },
+            "id": 2023021042,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-13T23:30:00Z",
+            "ticketsLink": "https://www.ticketmaster.ca/event/11005F1DBA464146",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 282,
+                "market": "N",
+                "network": "SN",
+                "sequenceNumber": 21
+              },
+              {
+                "countryCode": "US",
+                "id": 375,
+                "market": "A",
+                "network": "BSSO",
+                "sequenceNumber": 70
+              }
+            ],
+            "venue": {
+              "default": "Canada Life Centre"
+            },
+            "venueTimezone": "America/Winnipeg",
+            "venueUTCOffset": "-05:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "WSH",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/WSH_dark.svg",
+              "id": 15,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_light.svg",
+              "placeName": {
+                "default": "Washington"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/WSH/20232024/WSH-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/wsh-vs-edm/2024/03/13/2023021043",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "EDM",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg",
+              "homeSplitSquad": false,
+              "id": 22,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+              "placeName": {
+                "default": "Edmonton"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/EDM/20232024/EDM-radio.m3u8"
+            },
+            "id": 2023021043,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-14T02:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/11005F17C6BE490B?brand=nhl&wt.mc_id=NHL_LEAGUE_EDM_SCHED_PAGE_LINK_GM31&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_EDM&utm_content=SCHED_PAGE_LINK_GM31",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 281,
+                "market": "N",
+                "network": "TVAS",
+                "sequenceNumber": 31
+              },
+              {
+                "countryCode": "CA",
+                "id": 284,
+                "market": "N",
+                "network": "SN1",
+                "sequenceNumber": 22
+              },
+              {
+                "countryCode": "CA",
+                "id": 289,
+                "market": "N",
+                "network": "SNW",
+                "sequenceNumber": 30
+              },
+              {
+                "countryCode": "US",
+                "id": 385,
+                "market": "N",
+                "network": "TNT",
+                "sequenceNumber": 4
+              },
+              {
+                "countryCode": "US",
+                "id": 501,
+                "market": "N",
+                "network": "truTV",
+                "sequenceNumber": 6
+              },
+              {
+                "countryCode": "US",
+                "id": 519,
+                "market": "N",
+                "network": "MAX",
+                "sequenceNumber": 9
+              }
+            ],
+            "venue": {
+              "default": "Rogers Place"
+            },
+            "venueTimezone": "America/Edmonton",
+            "venueUTCOffset": "-06:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "COL",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/COL_dark.svg",
+              "id": 21,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+              "placeName": {
+                "default": "Colorado"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/COL/20232024/COL-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/col-vs-van/2024/03/13/2023021044",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "VAN",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/VAN_dark.svg",
+              "homeSplitSquad": false,
+              "id": 23,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
+              "placeName": {
+                "default": "Vancouver"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/VAN/20232024/VAN-radio.m3u8"
+            },
+            "id": 2023021044,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-14T02:30:00Z",
+            "ticketsLink": "https://www.nhl.com/canucks/tickets/",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 2,
+                "market": "A",
+                "network": "ALT",
+                "sequenceNumber": 53
+              },
+              {
+                "countryCode": "CA",
+                "id": 290,
+                "market": "H",
+                "network": "SNP",
+                "sequenceNumber": 29
+              }
+            ],
+            "venue": {
+              "default": "Rogers Arena"
+            },
+            "venueTimezone": "America/Vancouver",
+            "venueUTCOffset": "-07:00"
+          }
+        ],
+        "numberOfGames": 4
+      },
+      {
+        "date": "2024-03-14",
+        "dayAbbrev": "THU",
+        "games": [
+          {
+            "awayTeam": {
+              "abbrev": "NYI",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NYI_dark.svg",
+              "id": 2,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
+              "placeName": {
+                "default": "Islanders"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NYI/20232024/NYI-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/nyi-vs-buf/2024/03/14/2023021045",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "BUF",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/BUF_dark.svg",
+              "homeSplitSquad": false,
+              "id": 7,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+              "placeName": {
+                "default": "Buffalo"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/BUF/20232024/BUF-radio.m3u8"
+            },
+            "id": 2023021045,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-14T23:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/00005EDACAD0582B?brand=nhl&wt.mc_id=NHL_LEAGUE_BUF_SCHED_PAGE_LINK_GM35&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_BUF&utm_content=SCHED_PAGE_LINK_GM35",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 28,
+                "market": "H",
+                "network": "MSG-B",
+                "sequenceNumber": 62
+              },
+              {
+                "countryCode": "US",
+                "id": 409,
+                "market": "A",
+                "network": "MSGSN",
+                "sequenceNumber": 88
+              }
+            ],
+            "venue": {
+              "default": "KeyBank Center"
+            },
+            "venueTimezone": "America/New_York",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "FLA",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg",
+              "id": 13,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+              "placeName": {
+                "default": "Florida",
+                "fr": "Floride"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/FLA/20232024/FLA-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/fla-vs-car/2024/03/14/2023021046",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CAR",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg",
+              "homeSplitSquad": false,
+              "id": 12,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+              "placeName": {
+                "default": "Carolina",
+                "fr": "Caroline"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CAR/20232024/CAR-radio.m3u8"
+            },
+            "id": 2023021046,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-14T23:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/2D005EF4A0243FF1?brand=nhl&wt.mc_id=NHL_LEAGUE_CAR_SCHED_PAGE_LINK_GM35&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CAR&utm_content=SCHED_PAGE_LINK_GM35",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 353,
+                "market": "A",
+                "network": "BSFL",
+                "sequenceNumber": 92
+              },
+              {
+                "countryCode": "US",
+                "id": 375,
+                "market": "H",
+                "network": "BSSO",
+                "sequenceNumber": 70
+              }
+            ],
+            "venue": {
+              "default": "PNC Arena"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "OTT",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg",
+              "id": 9,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+              "placeName": {
+                "default": "Ottawa"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/OTT/20232024/OTT-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/ott-vs-cbj/2024/03/14/2023021047",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CBJ",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CBJ_dark.svg",
+              "homeSplitSquad": false,
+              "id": 29,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+              "placeName": {
+                "default": "Columbus"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CBJ/20232024/CBJ-radio.m3u8"
+            },
+            "id": 2023021047,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-14T23:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/05005EEA6CF40F87?brand=nhl&wt.mc_id=NHL_LEAGUE_CBJ_SCHED_PAGE_LINK_GM34&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CBJ&utm_content=SCHED_PAGE_LINK_GM34",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 230,
+                "market": "A",
+                "network": "RDS2",
+                "sequenceNumber": 71
+              },
+              {
+                "countryCode": "CA",
+                "id": 294,
+                "market": "A",
+                "network": "TSN5",
+                "sequenceNumber": 80
+              },
+              {
+                "countryCode": "US",
+                "id": 347,
+                "market": "H",
+                "network": "BSOH",
+                "sequenceNumber": 72
+              }
+            ],
+            "venue": {
+              "default": "Nationwide Arena"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "ARI",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/ARI_dark.svg",
+              "id": 53,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/ARI_light.svg",
+              "placeName": {
+                "default": "Arizona"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/ARI/20232024/ARI-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/ari-vs-det/2024/03/14/2023021048",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "DET",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/DET_dark.svg",
+              "homeSplitSquad": false,
+              "id": 17,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
+              "placeName": {
+                "default": "Detroit"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/DET/20232024/DET-radio.m3u8"
+            },
+            "id": 2023021048,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-14T23:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/08005ED5C3B83CA5?brand=nhl&wt.mc_id=NHL_LEAGUE_DET_SCHED_PAGE_LINK_GM34&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_DET&utm_content=SCHED_PAGE_LINK_GM34",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 351,
+                "market": "H",
+                "network": "BSDET",
+                "sequenceNumber": 51
+              },
+              {
+                "countryCode": "US",
+                "id": 521,
+                "market": "A",
+                "network": "SCRIPPS",
+                "sequenceNumber": 87
+              }
+            ],
+            "venue": {
+              "default": "Little Caesars Arena"
+            },
+            "venueTimezone": "America/Detroit",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "BOS",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/BOS_dark.svg",
+              "id": 6,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+              "placeName": {
+                "default": "Boston"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/BOS/20232024/BOS-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/bos-vs-mtl/2024/03/14/2023021049",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "MTL",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/MTL_dark.svg",
+              "homeSplitSquad": false,
+              "id": 8,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
+              "placeName": {
+                "default": "Montréal"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/MTL/20232024/MTL-radio.m3u8"
+            },
+            "id": 2023021049,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-14T23:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.ca/event/31005EF47AFD0F50?lang=en-ca&brand=nhl&wt.mc_id=NHL_LEAGUE_MTL_SCHED_PAGE_LINK_GM34&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_MTL&utm_content=SCHED_PAGE_LINK_GM34",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 31,
+                "market": "A",
+                "network": "NESN",
+                "sequenceNumber": 78
+              },
+              {
+                "countryCode": "CA",
+                "id": 33,
+                "market": "H",
+                "network": "RDS",
+                "sequenceNumber": 66
+              },
+              {
+                "countryCode": "CA",
+                "id": 131,
+                "market": "H",
+                "network": "TSN2",
+                "sequenceNumber": 50
+              }
+            ],
+            "venue": {
+              "default": "Centre Bell"
+            },
+            "venueTimezone": "America/Montreal",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "SJS",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg",
+              "id": 28,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+              "placeName": {
+                "default": "San Jose"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/SJS/20232024/SJS-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/sjs-vs-pit/2024/03/14/2023021051",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "PIT",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PIT_dark.svg",
+              "homeSplitSquad": false,
+              "id": 5,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+              "placeName": {
+                "default": "Pittsburgh"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PIT/20232024/PIT-radio.m3u8"
+            },
+            "id": 2023021051,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-14T23:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/16005ED7DA3C650C?brand=nhl&wt.mc_id=NHL_LEAGUE_PIT_SCHED_PAGE_LINK_GM33&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_PIT&utm_content=SCHED_PAGE_LINK_GM33&CAMEFROM=NHLPENGUINS_NHL_SCHED_PAGE_LINK",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 314,
+                "market": "A",
+                "network": "NBCSCA",
+                "sequenceNumber": 63
+              },
+              {
+                "countryCode": "US",
+                "id": 528,
+                "market": "H",
+                "network": "SN-PIT",
+                "sequenceNumber": 52
+              }
+            ],
+            "venue": {
+              "default": "PPG Paints Arena"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "NYR",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NYR_dark.svg",
+              "id": 3,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+              "placeName": {
+                "default": "Rangers"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NYR/20232024/NYR-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/nyr-vs-tbl/2024/03/14/2023021052",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "TBL",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/TBL_dark.svg",
+              "homeSplitSquad": false,
+              "id": 14,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+              "placeName": {
+                "default": "Tampa Bay"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/TBL/20232024/TBL-radio.m3u8"
+            },
+            "id": 2023021052,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-14T23:00:00Z",
+            "ticketsLink": "https://www.nhl.com/lightning/tickets/",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 27,
+                "market": "A",
+                "network": "MSG",
+                "sequenceNumber": 97
+              },
+              {
+                "countryCode": "CA",
+                "id": 287,
+                "market": "N",
+                "network": "SNE",
+                "sequenceNumber": 26
+              },
+              {
+                "countryCode": "CA",
+                "id": 288,
+                "market": "N",
+                "network": "SNO",
+                "sequenceNumber": 27
+              },
+              {
+                "countryCode": "CA",
+                "id": 290,
+                "market": "N",
+                "network": "SNP",
+                "sequenceNumber": 29
+              },
+              {
+                "countryCode": "US",
+                "id": 359,
+                "market": "H",
+                "network": "BSSUN",
+                "sequenceNumber": 86
+              }
+            ],
+            "venue": {
+              "default": "Amalie Arena"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "TOR",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg",
+              "id": 10,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+              "placeName": {
+                "default": "Toronto"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/TOR/20232024/TOR-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/tor-vs-phi/2024/03/14/2023021050",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "PHI",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+              "homeSplitSquad": false,
+              "id": 4,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+              "placeName": {
+                "default": "Philadelphia",
+                "fr": "Philadelphie"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PHI/20232024/PHI-radio.m3u8"
+            },
+            "id": 2023021050,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-14T23:30:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/30005EDBC8082B9B?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SINGLE_GAME_TICKETS_PAGE_GM34&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=SINGLE_GAME_TICKETS_PAGE_GM34",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 293,
+                "market": "A",
+                "network": "TSN4",
+                "sequenceNumber": 89
+              },
+              {
+                "countryCode": "US",
+                "id": 329,
+                "market": "N",
+                "network": "ESPN+",
+                "sequenceNumber": 7
+              },
+              {
+                "countryCode": "US",
+                "id": 391,
+                "market": "N",
+                "network": "HULU",
+                "sequenceNumber": 8
+              }
+            ],
+            "venue": {
+              "default": "Wells Fargo Center"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "NJD",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NJD_dark.svg",
+              "id": 1,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+              "placeName": {
+                "default": "New Jersey"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NJD/20232024/NJD-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/njd-vs-dal/2024/03/14/2023021053",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "DAL",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/DAL_dark.svg",
+              "homeSplitSquad": false,
+              "id": 25,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+              "placeName": {
+                "default": "Dallas"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/DAL/20232024/DAL-radio.m3u8"
+            },
+            "id": 2023021053,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-15T00:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/0C005EDA97671DAB?brand=nhl&wt.mc_id=NHL_LEAGUE_DAL_SCHED_PAGE_LINK_GM33&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_DAL&utm_content=SCHED_PAGE_LINK_GM33",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 349,
+                "market": "H",
+                "network": "BSSW",
+                "sequenceNumber": 61
+              },
+              {
+                "countryCode": "US",
+                "id": 410,
+                "market": "A",
+                "network": "MSGSN2",
+                "sequenceNumber": 79
+              }
+            ],
+            "venue": {
+              "default": "American Airlines Center"
+            },
+            "venueTimezone": "US/Central",
+            "venueUTCOffset": "-05:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "ANA",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/ANA_dark.svg",
+              "id": 24,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
+              "placeName": {
+                "default": "Anaheim"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/ANA/20232024/ANA-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/ana-vs-min/2024/03/14/2023021054",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "MIN",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/MIN_dark.svg",
+              "homeSplitSquad": false,
+              "id": 30,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
+              "placeName": {
+                "default": "Minnesota"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/MIN/20232024/MIN-radio.m3u8"
+            },
+            "id": 2023021054,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-15T00:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/06005EDB25B08668?brand=nhl&wt.mc_id=NHL_LEAGUE_MIN_SCHED_PAGE_LINK_GM34&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_MIN&utm_content=SCHED_PAGE_LINK_GM34",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 355,
+                "market": "A",
+                "network": "BSW",
+                "sequenceNumber": 57
+              },
+              {
+                "countryCode": "US",
+                "id": 361,
+                "market": "H",
+                "network": "BSN",
+                "sequenceNumber": 77
+              },
+              {
+                "countryCode": "US",
+                "id": 396,
+                "market": "H",
+                "network": "BSWIX",
+                "sequenceNumber": 55
+              }
+            ],
+            "venue": {
+              "default": "Xcel Energy Center"
+            },
+            "venueTimezone": "US/Central",
+            "venueUTCOffset": "-05:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "VGK",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg",
+              "id": 54,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+              "placeName": {
+                "default": "Vegas"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/VGK/20232024/VGK-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/vgk-vs-cgy/2024/03/14/2023021055",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CGY",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CGY_dark.svg",
+              "homeSplitSquad": false,
+              "id": 20,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+              "placeName": {
+                "default": "Calgary"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CGY/20232024/CGY-radio.m3u8"
+            },
+            "id": 2023021055,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-15T01:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/11005EF4C083324F?brand=nhl&wt.mc_id=NHL_LEAGUE_CGY_SCHED_PAGE_LINK_GM33&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CGY&utm_content=SCHED_PAGE_LINK_GM33",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 289,
+                "market": "H",
+                "network": "SNW",
+                "sequenceNumber": 30
+              },
+              {
+                "countryCode": "US",
+                "id": 521,
+                "market": "A",
+                "network": "SCRIPPS",
+                "sequenceNumber": 87
+              }
+            ],
+            "venue": {
+              "default": "Scotiabank Saddledome"
+            },
+            "venueTimezone": "US/Mountain",
+            "venueUTCOffset": "-06:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "WSH",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/WSH_dark.svg",
+              "id": 15,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_light.svg",
+              "placeName": {
+                "default": "Washington"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/WSH/20232024/WSH-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/wsh-vs-sea/2024/03/14/2023021056",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "SEA",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/SEA_dark.svg",
+              "homeSplitSquad": false,
+              "id": 55,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+              "placeName": {
+                "default": "Seattle"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/SEA/20232024/SEA-radio.m3u8"
+            },
+            "id": 2023021056,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-15T02:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/0F005EBFC3524AD2?brand=nhl&wt.mc_id=NHL_LEAGUE_SEA_SCHED_PAGE_LINK_GM33&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_SEA&utm_content=SCHED_PAGE_LINK_GM33",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 287,
+                "market": "N",
+                "network": "SNE",
+                "sequenceNumber": 26
+              },
+              {
+                "countryCode": "CA",
+                "id": 288,
+                "market": "N",
+                "network": "SNO",
+                "sequenceNumber": 27
+              },
+              {
+                "countryCode": "CA",
+                "id": 290,
+                "market": "N",
+                "network": "SNP",
+                "sequenceNumber": 29
+              },
+              {
+                "countryCode": "US",
+                "id": 386,
+                "market": "H",
+                "network": "ROOT-NW",
+                "sequenceNumber": 65
+              },
+              {
+                "countryCode": "US",
+                "id": 520,
+                "market": "A",
+                "network": "MNMT2",
+                "sequenceNumber": 98
+              }
+            ],
+            "venue": {
+              "default": "Climate Pledge Arena"
+            },
+            "venueTimezone": "US/Pacific",
+            "venueUTCOffset": "-07:00"
+          }
+        ],
+        "numberOfGames": 12
+      },
+      {
+        "date": "2024-03-15",
+        "dayAbbrev": "FRI",
+        "games": [
+          {
+            "awayTeam": {
+              "abbrev": "ANA",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/ANA_dark.svg",
+              "id": 24,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
+              "placeName": {
+                "default": "Anaheim"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/ANA/20232024/ANA-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/ana-vs-wpg/2024/03/15/2023021057",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "WPG",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg",
+              "homeSplitSquad": false,
+              "id": 52,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+              "placeName": {
+                "default": "Winnipeg"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/WPG/20232024/WPG-radio.m3u8"
+            },
+            "id": 2023021057,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T00:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.ca/event/11005F1DBA49414A",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 219,
+                "market": "A",
+                "network": "KCOP-13",
+                "sequenceNumber": 82
+              },
+              {
+                "countryCode": "CA",
+                "id": 292,
+                "market": "H",
+                "network": "TSN3",
+                "sequenceNumber": 75
+              }
+            ],
+            "venue": {
+              "default": "Canada Life Centre"
+            },
+            "venueTimezone": "America/Winnipeg",
+            "venueUTCOffset": "-05:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "LAK",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg",
+              "id": 26,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+              "placeName": {
+                "default": "Los Angeles"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/LAK/20232024/LAK-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/lak-vs-chi/2024/03/15/2023021058",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CHI",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg",
+              "homeSplitSquad": false,
+              "id": 16,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
+              "placeName": {
+                "default": "Chicago"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CHI/20232024/CHI-radio.m3u8"
+            },
+            "id": 2023021058,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T00:30:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/04005EDC97C713D4?brand=nhl&wt.mc_id=NHL_LEAGUE_CHI_SCHED_PAGE_LINK_GM35&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CHI&utm_content=SCHED_PAGE_LINK_GM35",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 281,
+                "market": "N",
+                "network": "TVAS",
+                "sequenceNumber": 31
+              },
+              {
+                "countryCode": "CA",
+                "id": 282,
+                "market": "N",
+                "network": "SN",
+                "sequenceNumber": 21
+              },
+              {
+                "countryCode": "US",
+                "id": 318,
+                "market": "H",
+                "network": "NBCSCH",
+                "sequenceNumber": 54
+              },
+              {
+                "countryCode": "US",
+                "id": 324,
+                "market": "N",
+                "network": "NHLN",
+                "sequenceNumber": 10
+              },
+              {
+                "countryCode": "US",
+                "id": 355,
+                "market": "A",
+                "network": "BSW",
+                "sequenceNumber": 57
+              }
+            ],
+            "venue": {
+              "default": "United Center"
+            },
+            "venueTimezone": "America/Chicago",
+            "venueUTCOffset": "-05:00"
+          }
+        ],
+        "numberOfGames": 2
+      },
+      {
+        "date": "2024-03-16",
+        "dayAbbrev": "SAT",
+        "games": [
+          {
+            "awayTeam": {
+              "abbrev": "BUF",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/BUF_dark.svg",
+              "id": 7,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+              "placeName": {
+                "default": "Buffalo"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/BUF/20232024/BUF-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/buf-vs-det/2024/03/16/2023021059",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "DET",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/DET_dark.svg",
+              "homeSplitSquad": false,
+              "id": 17,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
+              "placeName": {
+                "default": "Detroit"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/DET/20232024/DET-radio.m3u8"
+            },
+            "id": 2023021059,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T16:30:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/08005ED5C3BA3CAB?brand=nhl&wt.mc_id=NHL_LEAGUE_DET_SCHED_PAGE_LINK_GM35&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_DET&utm_content=SCHED_PAGE_LINK_GM35",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 28,
+                "market": "A",
+                "network": "MSG-B",
+                "sequenceNumber": 62
+              },
+              {
+                "countryCode": "CA",
+                "id": 284,
+                "market": "N",
+                "network": "SN1",
+                "sequenceNumber": 22
+              },
+              {
+                "countryCode": "US",
+                "id": 324,
+                "market": "N",
+                "network": "NHLN",
+                "sequenceNumber": 10
+              },
+              {
+                "countryCode": "US",
+                "id": 351,
+                "market": "H",
+                "network": "BSDET",
+                "sequenceNumber": 51
+              }
+            ],
+            "venue": {
+              "default": "Little Caesars Arena"
+            },
+            "venueTimezone": "America/Detroit",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "OTT",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg",
+              "id": 9,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+              "placeName": {
+                "default": "Ottawa"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/OTT/20232024/OTT-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/ott-vs-nyi/2024/03/16/2023021060",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "NYI",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NYI_dark.svg",
+              "homeSplitSquad": false,
+              "id": 2,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
+              "placeName": {
+                "default": "Islanders"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NYI/20232024/NYI-radio.m3u8"
+            },
+            "id": 2023021060,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T16:30:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/30005EDCBDCD2DAA?brand=nhl&wt.mc_id=NHL_LEAGUE_NYI_SCHED_PAGE_LINK_GM33&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_NYI&utm_content=SCHED_PAGE_LINK_GM33",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 33,
+                "market": "A",
+                "network": "RDS",
+                "sequenceNumber": 66
+              },
+              {
+                "countryCode": "CA",
+                "id": 294,
+                "market": "A",
+                "network": "TSN5",
+                "sequenceNumber": 80
+              },
+              {
+                "countryCode": "US",
+                "id": 409,
+                "market": "H",
+                "network": "MSGSN",
+                "sequenceNumber": 88
+              }
+            ],
+            "venue": {
+              "default": "UBS Arena"
+            },
+            "venueTimezone": "America/New_York",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "NYR",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NYR_dark.svg",
+              "id": 3,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+              "placeName": {
+                "default": "Rangers"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NYR/20232024/NYR-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/nyr-vs-pit/2024/03/16/2023021061",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "PIT",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PIT_dark.svg",
+              "homeSplitSquad": false,
+              "id": 5,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+              "placeName": {
+                "default": "Pittsburgh"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PIT/20232024/PIT-radio.m3u8"
+            },
+            "id": 2023021061,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T19:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/16005ED7DA0563DF?brand=nhl&wt.mc_id=NHL_LEAGUE_PIT_SCHED_PAGE_LINK_GM34&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_PIT&utm_content=SCHED_PAGE_LINK_GM34&CAMEFROM=NHLPENGUINS_NHL_SCHED_PAGE_LINK",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 281,
+                "market": "N",
+                "network": "TVAS",
+                "sequenceNumber": 31
+              },
+              {
+                "countryCode": "CA",
+                "id": 284,
+                "market": "N",
+                "network": "SN1",
+                "sequenceNumber": 22
+              },
+              {
+                "countryCode": "US",
+                "id": 329,
+                "market": "N",
+                "network": "ESPN+",
+                "sequenceNumber": 7
+              },
+              {
+                "countryCode": "US",
+                "id": 384,
+                "market": "N",
+                "network": "ABC",
+                "sequenceNumber": 1
+              }
+            ],
+            "venue": {
+              "default": "PPG Paints Arena"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "NJD",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NJD_dark.svg",
+              "id": 1,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+              "placeName": {
+                "default": "New Jersey"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NJD/20232024/NJD-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/njd-vs-ari/2024/03/16/2023021062",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "ARI",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/ARI_dark.svg",
+              "homeSplitSquad": false,
+              "id": 53,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/ARI_light.svg",
+              "placeName": {
+                "default": "Arizona"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/ARI/20232024/ARI-radio.m3u8"
+            },
+            "id": 2023021062,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T21:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/19005EEA80150D2E?brand=nhl&wt.mc_id=NHL_LEAGUE_ARI_SCHED_PAGE_LINK_GM33&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_ARI&utm_content=SCHED_PAGE_LINK_GM33",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 409,
+                "market": "A",
+                "network": "MSGSN",
+                "sequenceNumber": 88
+              },
+              {
+                "countryCode": "US",
+                "id": 521,
+                "market": "H",
+                "network": "SCRIPPS",
+                "sequenceNumber": 87
+              }
+            ],
+            "venue": {
+              "default": "Mullett Arena"
+            },
+            "venueTimezone": "America/Phoenix",
+            "venueUTCOffset": "-07:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "TBL",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/TBL_dark.svg",
+              "id": 14,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+              "placeName": {
+                "default": "Tampa Bay"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/TBL/20232024/TBL-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/tbl-vs-fla/2024/03/16/2023021063",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "FLA",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg",
+              "homeSplitSquad": false,
+              "id": 13,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+              "placeName": {
+                "default": "Florida",
+                "fr": "Floride"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/FLA/20232024/FLA-radio.m3u8"
+            },
+            "id": 2023021063,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T22:00:00Z",
+            "ticketsLink": "https://www.nhl.com/panthers/tickets/",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 329,
+                "market": "N",
+                "network": "ESPN+",
+                "sequenceNumber": 7
+              },
+              {
+                "countryCode": "US",
+                "id": 391,
+                "market": "N",
+                "network": "HULU",
+                "sequenceNumber": 8
+              }
+            ],
+            "venue": {
+              "default": "Amerant Bank Arena"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "PHI",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+              "id": 4,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+              "placeName": {
+                "default": "Philadelphia",
+                "fr": "Philadelphie"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PHI/20232024/PHI-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/phi-vs-bos/2024/03/16/2023021064",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "BOS",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/BOS_dark.svg",
+              "homeSplitSquad": false,
+              "id": 6,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+              "placeName": {
+                "default": "Boston"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/BOS/20232024/BOS-radio.m3u8"
+            },
+            "id": 2023021064,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T23:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/01005ED7EF0F73D4?brand=nhl&wt.mc_id=NHL_LEAGUE_BOS_SCHED_PAGE_LINK_GM36&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_BOS&utm_content=SCHED_PAGE_LINK_GM36",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 31,
+                "market": "H",
+                "network": "NESN",
+                "sequenceNumber": 78
+              },
+              {
+                "countryCode": "US",
+                "id": 322,
+                "market": "A",
+                "network": "NBCSP",
+                "sequenceNumber": 59
+              }
+            ],
+            "venue": {
+              "default": "TD Garden"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "SJS",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg",
+              "id": 28,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+              "placeName": {
+                "default": "San Jose"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/SJS/20232024/SJS-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/sjs-vs-cbj/2024/03/16/2023021065",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CBJ",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CBJ_dark.svg",
+              "homeSplitSquad": false,
+              "id": 29,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+              "placeName": {
+                "default": "Columbus"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CBJ/20232024/CBJ-radio.m3u8"
+            },
+            "id": 2023021065,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T23:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/05005EE91D86707C?brand=nhl&wt.mc_id=NHL_LEAGUE_CBJ_SCHED_PAGE_LINK_GM35&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CBJ&utm_content=SCHED_PAGE_LINK_GM35",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 314,
+                "market": "A",
+                "network": "NBCSCA",
+                "sequenceNumber": 63
+              },
+              {
+                "countryCode": "US",
+                "id": 347,
+                "market": "H",
+                "network": "BSOH",
+                "sequenceNumber": 72
+              }
+            ],
+            "venue": {
+              "default": "Nationwide Arena"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "MTL",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/MTL_dark.svg",
+              "id": 8,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
+              "placeName": {
+                "default": "Montréal"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/MTL/20232024/MTL-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/mtl-vs-cgy/2024/03/16/2023021066",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CGY",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CGY_dark.svg",
+              "homeSplitSquad": false,
+              "id": 20,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+              "placeName": {
+                "default": "Calgary"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CGY/20232024/CGY-radio.m3u8"
+            },
+            "id": 2023021066,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T23:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/11005EF4C086326D?brand=nhl&wt.mc_id=NHL_LEAGUE_CGY_SCHED_PAGE_LINK_GM34&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CGY&utm_content=SCHED_PAGE_LINK_GM34",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 4,
+                "market": "N",
+                "network": "CBC",
+                "sequenceNumber": 24
+              },
+              {
+                "countryCode": "CA",
+                "id": 281,
+                "market": "N",
+                "network": "TVAS",
+                "sequenceNumber": 31
+              },
+              {
+                "countryCode": "CA",
+                "id": 286,
+                "market": "N",
+                "network": "CITY",
+                "sequenceNumber": 25
+              }
+            ],
+            "venue": {
+              "default": "Scotiabank Saddledome"
+            },
+            "venueTimezone": "US/Mountain",
+            "venueUTCOffset": "-06:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "CAR",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg",
+              "id": 12,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+              "placeName": {
+                "default": "Carolina",
+                "fr": "Caroline"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CAR/20232024/CAR-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/car-vs-tor/2024/03/16/2023021067",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "TOR",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg",
+              "homeSplitSquad": false,
+              "id": 10,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+              "placeName": {
+                "default": "Toronto"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/TOR/20232024/TOR-radio.m3u8"
+            },
+            "id": 2023021067,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-16T23:00:00Z",
+            "ticketsLink": "https://www.nhl.com/mapleleafs/tickets/",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 282,
+                "market": "N",
+                "network": "SN",
+                "sequenceNumber": 21
+              },
+              {
+                "countryCode": "US",
+                "id": 375,
+                "market": "A",
+                "network": "BSSO",
+                "sequenceNumber": 70
+              }
+            ],
+            "venue": {
+              "default": "Scotiabank Arena"
+            },
+            "venueTimezone": "America/Toronto",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "LAK",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg",
+              "id": 26,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+              "placeName": {
+                "default": "Los Angeles"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/LAK/20232024/LAK-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/lak-vs-dal/2024/03/16/2023021068",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "DAL",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/DAL_dark.svg",
+              "homeSplitSquad": false,
+              "id": 25,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+              "placeName": {
+                "default": "Dallas"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/DAL/20232024/DAL-radio.m3u8"
+            },
+            "id": 2023021068,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T00:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/0C005EDAA43022F0?brand=nhl&wt.mc_id=NHL_LEAGUE_DAL_SCHED_PAGE_LINK_GM34&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_DAL&utm_content=SCHED_PAGE_LINK_GM34",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 349,
+                "market": "H",
+                "network": "BSSW",
+                "sequenceNumber": 61
+              },
+              {
+                "countryCode": "US",
+                "id": 355,
+                "market": "A",
+                "network": "BSW",
+                "sequenceNumber": 57
+              }
+            ],
+            "venue": {
+              "default": "American Airlines Center"
+            },
+            "venueTimezone": "US/Central",
+            "venueUTCOffset": "-05:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "MIN",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/MIN_dark.svg",
+              "id": 30,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
+              "placeName": {
+                "default": "Minnesota"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/MIN/20232024/MIN-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/min-vs-stl/2024/03/16/2023021069",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "STL",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg",
+              "homeSplitSquad": false,
+              "id": 19,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
+              "placeName": {
+                "default": "St. Louis"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/STL/20232024/STL-radio.m3u8"
+            },
+            "id": 2023021069,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T00:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/06005EDABF693B8D?brand=nhl&wt.mc_id=NHL_LEAGUE_STL_SCHED_PAGE_LINK_GM32&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_STL&utm_content=SCHED_PAGE_LINK_GM32",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 357,
+                "market": "H",
+                "network": "BSMW",
+                "sequenceNumber": 95
+              },
+              {
+                "countryCode": "US",
+                "id": 361,
+                "market": "A",
+                "network": "BSN",
+                "sequenceNumber": 77
+              },
+              {
+                "countryCode": "US",
+                "id": 363,
+                "market": "A",
+                "network": "BSWI",
+                "sequenceNumber": 90
+              }
+            ],
+            "venue": {
+              "default": "Enterprise Center"
+            },
+            "venueTimezone": "US/Central",
+            "venueUTCOffset": "-05:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "COL",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/COL_dark.svg",
+              "id": 21,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+              "placeName": {
+                "default": "Colorado"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/COL/20232024/COL-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/col-vs-edm/2024/03/16/2023021070",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "EDM",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg",
+              "homeSplitSquad": false,
+              "id": 22,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+              "placeName": {
+                "default": "Edmonton"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/EDM/20232024/EDM-radio.m3u8"
+            },
+            "id": 2023021070,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T02:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/11005F17C6C4490D?brand=nhl&wt.mc_id=NHL_LEAGUE_EDM_SCHED_PAGE_LINK_GM32&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_EDM&utm_content=SCHED_PAGE_LINK_GM32",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 2,
+                "market": "A",
+                "network": "ALT",
+                "sequenceNumber": 53
+              },
+              {
+                "countryCode": "CA",
+                "id": 4,
+                "market": "N",
+                "network": "CBC",
+                "sequenceNumber": 24
+              },
+              {
+                "countryCode": "CA",
+                "id": 287,
+                "market": "N",
+                "network": "SNE",
+                "sequenceNumber": 26
+              },
+              {
+                "countryCode": "CA",
+                "id": 288,
+                "market": "N",
+                "network": "SNO",
+                "sequenceNumber": 27
+              },
+              {
+                "countryCode": "CA",
+                "id": 289,
+                "market": "N",
+                "network": "SNW",
+                "sequenceNumber": 30
+              },
+              {
+                "countryCode": "CA",
+                "id": 291,
+                "market": "N",
+                "network": "TVAS2",
+                "sequenceNumber": 32
+              }
+            ],
+            "venue": {
+              "default": "Rogers Place"
+            },
+            "venueTimezone": "America/Edmonton",
+            "venueUTCOffset": "-06:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "NSH",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NSH_dark.svg",
+              "id": 18,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+              "placeName": {
+                "default": "Nashville"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NSH/20232024/NSH-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/nsh-vs-sea/2024/03/16/2023021071",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "SEA",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/SEA_dark.svg",
+              "homeSplitSquad": false,
+              "id": 55,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+              "placeName": {
+                "default": "Seattle"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/SEA/20232024/SEA-radio.m3u8"
+            },
+            "id": 2023021071,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T02:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/0F005EBFC3544ADE?brand=nhl&wt.mc_id=NHL_LEAGUE_SEA_SCHED_PAGE_LINK_GM34&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_SEA&utm_content=SCHED_PAGE_LINK_GM34",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 375,
+                "market": "A",
+                "network": "BSSO",
+                "sequenceNumber": 70
+              },
+              {
+                "countryCode": "US",
+                "id": 386,
+                "market": "H",
+                "network": "ROOT-NW",
+                "sequenceNumber": 65
+              }
+            ],
+            "venue": {
+              "default": "Climate Pledge Arena"
+            },
+            "venueTimezone": "US/Pacific",
+            "venueUTCOffset": "-07:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "WSH",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/WSH_dark.svg",
+              "id": 15,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_light.svg",
+              "placeName": {
+                "default": "Washington"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/WSH/20232024/WSH-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/wsh-vs-van/2024/03/16/2023021072",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "VAN",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/VAN_dark.svg",
+              "homeSplitSquad": false,
+              "id": 23,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
+              "placeName": {
+                "default": "Vancouver"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/VAN/20232024/VAN-radio.m3u8"
+            },
+            "id": 2023021072,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T02:00:00Z",
+            "ticketsLink": "https://www.nhl.com/canucks/tickets/",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 286,
+                "market": "N",
+                "network": "CITY",
+                "sequenceNumber": 25
+              },
+              {
+                "countryCode": "CA",
+                "id": 290,
+                "market": "N",
+                "network": "SNP",
+                "sequenceNumber": 29
+              },
+              {
+                "countryCode": "US",
+                "id": 520,
+                "market": "A",
+                "network": "MNMT2",
+                "sequenceNumber": 98
+              }
+            ],
+            "venue": {
+              "default": "Rogers Arena"
+            },
+            "venueTimezone": "America/Vancouver",
+            "venueUTCOffset": "-07:00"
+          }
+        ],
+        "numberOfGames": 14
+      },
+      {
+        "date": "2024-03-17",
+        "dayAbbrev": "SUN",
+        "games": [
+          {
+            "awayTeam": {
+              "abbrev": "NYI",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NYI_dark.svg",
+              "id": 2,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
+              "placeName": {
+                "default": "Islanders"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NYI/20232024/NYI-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/nyi-vs-nyr/2024/03/17/2023021073",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "NYR",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NYR_dark.svg",
+              "homeSplitSquad": false,
+              "id": 3,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+              "placeName": {
+                "default": "Rangers"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NYR/20232024/NYR-radio.m3u8"
+            },
+            "id": 2023021073,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T17:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/3B005EE596B50E63?brand=nhl&wt.mc_id=NHL_LEAGUE_NYR_SCHED_PAGE_LINK_GM32&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_NYR&utm_content=SCHED_PAGE_LINK_GM32&CAMEFROM=CFC_RANGERS_WEB_NHL_SCHED_230807",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 281,
+                "market": "N",
+                "network": "TVAS",
+                "sequenceNumber": 31
+              },
+              {
+                "countryCode": "CA",
+                "id": 283,
+                "market": "N",
+                "network": "SN360",
+                "sequenceNumber": 23
+              },
+              {
+                "countryCode": "US",
+                "id": 385,
+                "market": "N",
+                "network": "TNT",
+                "sequenceNumber": 4
+              },
+              {
+                "countryCode": "US",
+                "id": 519,
+                "market": "N",
+                "network": "MAX",
+                "sequenceNumber": 9
+              }
+            ],
+            "venue": {
+              "default": "Madison Square Garden"
+            },
+            "venueTimezone": "America/New_York",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "NJD",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NJD_dark.svg",
+              "id": 1,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+              "placeName": {
+                "default": "New Jersey"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NJD/20232024/NJD-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/njd-vs-vgk/2024/03/17/2023021074",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "VGK",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg",
+              "homeSplitSquad": false,
+              "id": 54,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+              "placeName": {
+                "default": "Vegas"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/VGK/20232024/VGK-radio.m3u8"
+            },
+            "id": 2023021074,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T19:30:00Z",
+            "ticketsLink": "https://shop.axs.com/?c=axs&e=69840267542077463",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 283,
+                "market": "N",
+                "network": "SN360",
+                "sequenceNumber": 23
+              },
+              {
+                "countryCode": "US",
+                "id": 385,
+                "market": "N",
+                "network": "TNT",
+                "sequenceNumber": 4
+              },
+              {
+                "countryCode": "US",
+                "id": 519,
+                "market": "N",
+                "network": "MAX",
+                "sequenceNumber": 9
+              }
+            ],
+            "venue": {
+              "default": "T-Mobile Arena"
+            },
+            "venueTimezone": "US/Pacific",
+            "venueUTCOffset": "-07:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "WPG",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg",
+              "id": 52,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+              "placeName": {
+                "default": "Winnipeg"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/WPG/20232024/WPG-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/wpg-vs-cbj/2024/03/17/2023021075",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CBJ",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CBJ_dark.svg",
+              "homeSplitSquad": false,
+              "id": 29,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+              "placeName": {
+                "default": "Columbus"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CBJ/20232024/CBJ-radio.m3u8"
+            },
+            "id": 2023021075,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T22:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/05005EE920DA72B7?brand=nhl&wt.mc_id=NHL_LEAGUE_CBJ_SCHED_PAGE_LINK_GM36&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CBJ&utm_content=SCHED_PAGE_LINK_GM36",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 292,
+                "market": "A",
+                "network": "TSN3",
+                "sequenceNumber": 75
+              },
+              {
+                "countryCode": "US",
+                "id": 347,
+                "market": "H",
+                "network": "BSOH",
+                "sequenceNumber": 72
+              }
+            ],
+            "venue": {
+              "default": "Nationwide Arena"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "SJS",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg",
+              "id": 28,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+              "placeName": {
+                "default": "San Jose"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/SJS/20232024/SJS-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/sjs-vs-chi/2024/03/17/2023021076",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CHI",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg",
+              "homeSplitSquad": false,
+              "id": 16,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
+              "placeName": {
+                "default": "Chicago"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CHI/20232024/CHI-radio.m3u8"
+            },
+            "id": 2023021076,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T22:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/04005EDC97CA13D6?brand=nhl&wt.mc_id=NHL_LEAGUE_CHI_SCHED_PAGE_LINK_GM36&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CHI&utm_content=SCHED_PAGE_LINK_GM36",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 314,
+                "market": "A",
+                "network": "NBCSCA",
+                "sequenceNumber": 63
+              },
+              {
+                "countryCode": "US",
+                "id": 318,
+                "market": "H",
+                "network": "NBCSCH",
+                "sequenceNumber": 54
+              }
+            ],
+            "venue": {
+              "default": "United Center"
+            },
+            "venueTimezone": "America/Chicago",
+            "venueUTCOffset": "-05:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "CAR",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg",
+              "id": 12,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+              "placeName": {
+                "default": "Carolina",
+                "fr": "Caroline"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CAR/20232024/CAR-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/car-vs-ott/2024/03/17/2023021077",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "OTT",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg",
+              "homeSplitSquad": false,
+              "id": 9,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+              "placeName": {
+                "default": "Ottawa"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/OTT/20232024/OTT-radio.m3u8"
+            },
+            "id": 2023021077,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T22:00:00Z",
+            "ticketsLink": "https://www.nhl.com/senators/tickets/",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 33,
+                "market": "H",
+                "network": "RDS",
+                "sequenceNumber": 66
+              },
+              {
+                "countryCode": "CA",
+                "id": 294,
+                "market": "H",
+                "network": "TSN5",
+                "sequenceNumber": 80
+              },
+              {
+                "countryCode": "US",
+                "id": 375,
+                "market": "A",
+                "network": "BSSO",
+                "sequenceNumber": 70
+              }
+            ],
+            "venue": {
+              "default": "Canadian Tire Centre",
+              "fr": "Centre Canadian Tire"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "DET",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/DET_dark.svg",
+              "id": 17,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
+              "placeName": {
+                "default": "Detroit"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/DET/20232024/DET-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/det-vs-pit/2024/03/17/2023021078",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "PIT",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PIT_dark.svg",
+              "homeSplitSquad": false,
+              "id": 5,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+              "placeName": {
+                "default": "Pittsburgh"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PIT/20232024/PIT-radio.m3u8"
+            },
+            "id": 2023021078,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T22:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/16005ED7DA0763E2?brand=nhl&wt.mc_id=NHL_LEAGUE_PIT_SCHED_PAGE_LINK_GM35&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_PIT&utm_content=SCHED_PAGE_LINK_GM35&CAMEFROM=NHLPENGUINS_NHL_SCHED_PAGE_LINK",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 282,
+                "market": "N",
+                "network": "SN",
+                "sequenceNumber": 21
+              },
+              {
+                "countryCode": "US",
+                "id": 324,
+                "market": "N",
+                "network": "NHLN",
+                "sequenceNumber": 10
+              },
+              {
+                "countryCode": "US",
+                "id": 351,
+                "market": "A",
+                "network": "BSDET",
+                "sequenceNumber": 51
+              },
+              {
+                "countryCode": "US",
+                "id": 528,
+                "market": "H",
+                "network": "SN-PIT",
+                "sequenceNumber": 52
+              }
+            ],
+            "venue": {
+              "default": "PPG Paints Arena"
+            },
+            "venueTimezone": "US/Eastern",
+            "venueUTCOffset": "-04:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "ANA",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/ANA_dark.svg",
+              "id": 24,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
+              "placeName": {
+                "default": "Anaheim"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/ANA/20232024/ANA-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/ana-vs-stl/2024/03/17/2023021079",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "STL",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg",
+              "homeSplitSquad": false,
+              "id": 19,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
+              "placeName": {
+                "default": "St. Louis"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/STL/20232024/STL-radio.m3u8"
+            },
+            "id": 2023021079,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-17T23:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/06005EDABF6C3BB5?brand=nhl&wt.mc_id=NHL_LEAGUE_STL_SCHED_PAGE_LINK_GM33&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_STL&utm_content=SCHED_PAGE_LINK_GM33",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 341,
+                "market": "A",
+                "network": "BSSC",
+                "sequenceNumber": 84
+              },
+              {
+                "countryCode": "US",
+                "id": 357,
+                "market": "H",
+                "network": "BSMW",
+                "sequenceNumber": 95
+              },
+              {
+                "countryCode": "US",
+                "id": 365,
+                "market": "A",
+                "network": "BSSD",
+                "sequenceNumber": 81
+              }
+            ],
+            "venue": {
+              "default": "Enterprise Center"
+            },
+            "venueTimezone": "US/Central",
+            "venueUTCOffset": "-05:00"
+          }
+        ],
+        "numberOfGames": 7
+      },
+      {
+        "date": "2024-03-18",
+        "dayAbbrev": "MON",
+        "games": [
+          {
+            "awayTeam": {
+              "abbrev": "WSH",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/WSH_dark.svg",
+              "id": 15,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_light.svg",
+              "placeName": {
+                "default": "Washington"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/WSH/20232024/WSH-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/wsh-vs-cgy/2024/03/18/2023021080",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "CGY",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CGY_dark.svg",
+              "homeSplitSquad": false,
+              "id": 20,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+              "placeName": {
+                "default": "Calgary"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CGY/20232024/CGY-radio.m3u8"
+            },
+            "id": 2023021080,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-19T00:30:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/11005EF4C089327A?brand=nhl&wt.mc_id=NHL_LEAGUE_CGY_SCHED_PAGE_LINK_GM35&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CGY&utm_content=SCHED_PAGE_LINK_GM35",
+            "tvBroadcasts": [
+              {
+                "countryCode": "CA",
+                "id": 281,
+                "market": "N",
+                "network": "TVAS",
+                "sequenceNumber": 31
+              },
+              {
+                "countryCode": "CA",
+                "id": 282,
+                "market": "N",
+                "network": "SN",
+                "sequenceNumber": 21
+              },
+              {
+                "countryCode": "US",
+                "id": 324,
+                "market": "N",
+                "network": "NHLN",
+                "sequenceNumber": 10
+              },
+              {
+                "countryCode": "US",
+                "id": 517,
+                "market": "A",
+                "network": "MNMT",
+                "sequenceNumber": 67
+              }
+            ],
+            "venue": {
+              "default": "Scotiabank Saddledome"
+            },
+            "venueTimezone": "US/Mountain",
+            "venueUTCOffset": "-06:00"
+          },
+          {
+            "awayTeam": {
+              "abbrev": "BUF",
+              "awaySplitSquad": false,
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/BUF_dark.svg",
+              "id": 7,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+              "placeName": {
+                "default": "Buffalo"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/BUF/20232024/BUF-radio.m3u8"
+            },
+            "easternUTCOffset": "-04:00",
+            "gameCenterLink": "/gamecenter/buf-vs-sea/2024/03/18/2023021081",
+            "gameScheduleState": "OK",
+            "gameState": "FUT",
+            "gameType": 2,
+            "homeTeam": {
+              "abbrev": "SEA",
+              "darkLogo": "https://assets.nhle.com/logos/nhl/svg/SEA_dark.svg",
+              "homeSplitSquad": false,
+              "id": 55,
+              "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+              "placeName": {
+                "default": "Seattle"
+              },
+              "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/SEA/20232024/SEA-radio.m3u8"
+            },
+            "id": 2023021081,
+            "neutralSite": false,
+            "periodDescriptor": {},
+            "season": 20232024,
+            "startTimeUTC": "2024-03-19T02:00:00Z",
+            "ticketsLink": "https://www.ticketmaster.com/event/0F005EBFC3584AE5?brand=nhl&wt.mc_id=NHL_LEAGUE_SEA_SCHED_PAGE_LINK_GM35&utm_source=nhl.com&utm_medium=client&utm_campaign=NHL_LEAGUE_SEA&utm_content=SCHED_PAGE_LINK_GM35",
+            "tvBroadcasts": [
+              {
+                "countryCode": "US",
+                "id": 28,
+                "market": "A",
+                "network": "MSG-B",
+                "sequenceNumber": 62
+              },
+              {
+                "countryCode": "US",
+                "id": 386,
+                "market": "H",
+                "network": "ROOT-NW",
+                "sequenceNumber": 65
+              }
+            ],
+            "venue": {
+              "default": "Climate Pledge Arena"
+            },
+            "venueTimezone": "US/Pacific",
+            "venueUTCOffset": "-07:00"
+          }
+        ],
+        "numberOfGames": 2
+      }
+    ],
+    "nextStartDate": "2024-03-19",
+    "numberOfGames": 51,
+    "oddsPartners": [
+      {
+        "accentColor": "#3AAA35",
+        "bgColor": "#14805E",
+        "country": "SE",
+        "imageUrl": "https://assets.nhle.com/betting_partner/unibet.svg",
+        "name": "Unibet",
+        "partnerId": 2,
+        "siteUrl": "https://www.unibet.se/betting/sports/filter/ice_hockey/nhl/all/matches",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "accentColor": "#FFFFFF",
+        "bgColor": "#2497F2",
+        "country": "CZ",
+        "imageUrl": "https://assets.nhle.com/betting_partner/tipsport.svg",
+        "name": "Tipsport",
+        "partnerId": 3,
+        "siteUrl": "https://www.tipsport.cz/PartnerRedirectAction.do?pid=16961&sid=20360&bid=34954&tid=11268",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "accentColor": "#FFFFFF",
+        "bgColor": "#2497F2",
+        "country": "SK",
+        "imageUrl": "https://assets.nhle.com/betting_partner/tipsport.svg",
+        "name": "Tipsport",
+        "partnerId": 3,
+        "siteUrl": "https://www.tipsport.sk/PartnerRedirectAction.do?pid=6823&sid=9018&bid=23079&tid=8475",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "accentColor": "#FFEB00",
+        "bgColor": "#007354",
+        "country": "RU",
+        "imageUrl": "https://assets.nhle.com/betting_partner/ligastavok.svg",
+        "name": "Liga Stavok",
+        "partnerId": 5,
+        "textColor": "#FFFFFF"
+      },
+      {
+        "accentColor": "#FFFFFF",
+        "bgColor": "#0025F5",
+        "country": "FI",
+        "imageUrl": "https://assets.nhle.com/betting_partner/veikkaus.svg",
+        "name": "Veikkaus",
+        "partnerId": 6,
+        "siteUrl": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-2-1_NHL",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "accentColor": "#FFFFFF",
+        "bgColor": "#0078ff",
+        "country": "CA",
+        "imageUrl": "https://assets.nhle.com/betting_partner/fanduel.svg",
+        "name": "FanDuel",
+        "partnerId": 7,
+        "siteUrl": "https://fanduel.com",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "accentColor": "#E6E6E6",
+        "bgColor": "#000000",
+        "country": "DE",
+        "imageUrl": "https://assets.nhle.com/betting_partner/sportsradar.svg",
+        "name": "Sportradar",
+        "partnerId": 8,
+        "siteUrl": "https://sportradar.com",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "accentColor": "#FFFFFF",
+        "bgColor": "#000000",
+        "country": "US",
+        "imageUrl": "https://assets.nhle.com/betting_partner/draftkings.svg",
+        "name": "DraftKings",
+        "partnerId": 9,
+        "siteUrl": "https://dksb.sng.link/As9kz/720m?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D158542143%26wpcid%3D331060%26wpsrc%3D1320%26wpcn%3DNHLSportsbook%26wpscn%3DOddsByDK%26wpcrn%3DStatic%26wpscid%3DEvergreen%26wpcrid%3Dxx&psn=NHL&pcid=331060&pcrn=Evergreen&pscn=OddsByDK",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "playoffEndDate": "2024-06-18",
+    "preSeasonStartDate": "2023-09-23",
+    "previousStartDate": "2024-03-05",
+    "regularSeasonEndDate": "2024-04-18",
+    "regularSeasonStartDate": "2023-10-10"
+  }
